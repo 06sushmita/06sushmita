@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSIyNjAiIHZpZXdCb3g9IjAgMCAxNDAwIDI2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cmVjdCB3aWR0aD0iMTQwMCIgaGVpZ2h0PSIyNjAiIGZpbGw9IiMwRDExMTciLz4KCiAgPCEtLSB0aGluIGFjY2VudCBmcmFtZSAtLT4KICA8bGluZSB4MT0iMCIgeTE9IjAiIHgyPSIxNDAwIiB5Mj0iMCIgc3Ryb2tlPSIjMjEyNjJEIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iMCIgeTE9IjI1OSIgeDI9IjE0MDAiIHkyPSIyNTkiIHN0cm9rZT0iIzIxMjYyRCIgc3Ryb2tlLXdpZHRoPSIxIi8+CgogIDwhLS0gY29ybmVyIGJyYWNrZXQgYWNjZW50cyAtLT4KICA8cGF0aCBkPSJNIDYwIDQwIEwgNjAgMjQgTCA3NiAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQzA4NEZDIiBzdHJva2Utd2lkdGg9IjIiLz4KICA8cGF0aCBkPSJNIDEzNDAgNDAgTCAxMzQwIDI0IEwgMTMyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzREMzk5IiBzdHJva2Utd2lkdGg9IjIiLz4KICA8cGF0aCBkPSJNIDYwIDIyMCBMIDYwIDIzNiBMIDc2IDIzNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzREMzk5IiBzdHJva2Utd2lkdGg9IjIiLz4KICA8cGF0aCBkPSJNIDEzNDAgMjIwIEwgMTM0MCAyMzYgTCAxMzI0IDIzNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQzA4NEZDIiBzdHJva2Utd2lkdGg9IjIiLz4KCiAgPCEtLSB2ZXJ0aWNhbCBpbmRleCBiYXIgLS0+CiAgPHJlY3QgeD0iNjAiIHk9Ijk2IiB3aWR0aD0iNCIgaGVpZ2h0PSI2OCIgZmlsbD0iI0MwODRGQyIvPgoKICA8IS0tIGV5ZWJyb3cgLS0+CiAgPHRleHQgeD0iODAiIHk9IjgwIiBmb250LWZhbWlseT0iJ0pldEJyYWlucyBNb25vJywnQ291cmllciBOZXcnLG1vbm9zcGFjZSIgZm9udC1zaXplPSIxNCIgZmlsbD0iIzhCOTQ5RSIgbGV0dGVyLXNwYWNpbmc9IjMiPkNPTVBVVEVSIEVOR0lORUVSSU5HIMK3IEZVTEwtU1RBQ0sgwrcgQUkvTUw8L3RleHQ+CgogIDwhLS0gbmFtZSAtLT4KICA8dGV4dCB4PSI3NiIgeT0iMTUwIiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI2NCIgZm9udC13ZWlnaHQ9IjgwMCIgZmlsbD0iI0YwRjZGQyIgbGV0dGVyLXNwYWNpbmc9IjEiPlNVU0hNSVRBIE1JU0hSQTwvdGV4dD4KCiAgPCEtLSBzdWJ0aXRsZSAtLT4KICA8dGV4dCB4PSI4MCIgeT0iMTg4IiBmb250LWZhbWlseT0iJ0pldEJyYWlucyBNb25vJywnQ291cmllciBOZXcnLG1vbm9zcGFjZSIgZm9udC1zaXplPSIxNiIgZmlsbD0iIzM0RDM5OSI+Jmd0OyBidWlsZGluZyBzb2Z0d2FyZS4gbGVhcm5pbmcgY29udGludW91c2x5LiBzb2x2aW5nIHByb2JsZW1zLjwvdGV4dD4KCiAgPCEtLSBzdGF0dXMgZG90ICsgbGFiZWwsIHRvcCByaWdodCAtLT4KICA8Y2lyY2xlIGN4PSIxMjkwIiBjeT0iNTIiIHI9IjUiIGZpbGw9IiMzNEQzOTkiLz4KICA8dGV4dCB4PSIxMzA1IiB5PSI1NyIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiM4Qjk0OUUiPm9wZW4gdG8gd29yazwvdGV4dD4KPC9zdmc+Cg==" width="100%"/>
 
 <br>
 
@@ -14,93 +14,110 @@
 <img src="https://img.shields.io/badge/LeetCode-Solve-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161B22" />
 </a>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=650&lines=Building+backend+systems+with+clean+architecture;Java+%2F+Spring+Boot+%2F+React+%2F+Node.js;Currently+leveling+up+in+Machine+Learning+%26+AI" />
-
 </div>
 
 <br>
 
-## 🧭 About Me
+## About
 
-```yaml
-name: Sushmita Mishra
-role: Computer Engineering Student · Full-Stack Developer
-focus: Backend systems, clean architecture, practical problem-solving
-currently_exploring: Machine Learning & AI-powered applications
-philosophy: "Ship things that work. Learn the ones that don't — yet."
-```
+Computer Engineering student and full-stack developer focused on building reliable, well-structured backend systems. Comfortable across the stack, with particular interest in clean architecture, data modeling, and API design. Currently expanding into machine learning and AI-driven applications, with the goal of applying that background to production-grade systems.
 
 <br>
 
-## ⚙️ Tech Stack
+## Technical Skills
+
+<table width="100%">
+<tr>
+<td valign="top" width="25%">
+
+**Languages**
+
+Java · Python
+JavaScript · TypeScript
+
+</td>
+<td valign="top" width="25%">
+
+**Frontend**
+
+React · HTML5
+CSS3 · Tailwind CSS
+
+</td>
+<td valign="top" width="25%">
+
+**Backend**
+
+Spring Boot · Node.js
+Express.js · REST APIs
+
+</td>
+<td valign="top" width="25%">
+
+**Database & Tooling**
+
+MySQL · MongoDB
+Git · Docker
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" />
-
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
-
-**Backend & APIs**
-<br>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" />
-
-**Database & Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,spring,nodejs,express,mysql,mongodb,git,docker&perline=6&theme=dark" />
 
 </div>
 
 <br>
 
-## 🚀 Featured Projects
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🏦 VBS — Virtual Banking System</h3>
 
-A backend-first banking simulation handling account management, secure transactions, and core banking logic — built to mirror real-world financial system constraints like data integrity and transaction consistency.
+### Virtual Banking System
 
-`Java` `Spring Boot` `MySQL` `REST APIs`
+A backend-first banking simulation handling account management, transactions, and core banking logic, built to reflect real-world constraints such as data integrity and transaction consistency.
 
-<a href="#"><img src="https://img.shields.io/badge/Repo-View%20Code-333333?style=flat-square&logo=github" /></a>
+**Stack:** Java · Spring Boot · MySQL · REST APIs
+
+<a href="#"><img src="https://img.shields.io/badge/Repository-View%20Code-333333?style=flat-square&logo=github" /></a>
 
 </td>
 <td width="50%" valign="top">
-<h3>🍽️ RMS — Restaurant Management System</h3>
 
-A database-driven system for managing restaurant operations end-to-end — orders, inventory, and staff workflows — designed around normalized schemas and efficient query performance.
+### Restaurant Management System
 
-`Java` `Spring Boot` `MySQL`
+A database-driven application for managing restaurant operations end-to-end, including orders, inventory, and staff workflows, designed around normalized schemas and efficient querying.
 
-<a href="#"><img src="https://img.shields.io/badge/Repo-View%20Code-333333?style=flat-square&logo=github" /></a>
+**Stack:** Java · Spring Boot · MySQL
+
+<a href="#"><img src="https://img.shields.io/badge/Repository-View%20Code-333333?style=flat-square&logo=github" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🎟️ EventFlow — Event Management Platform</h3>
 
-A real-time web platform for creating, discovering, and joining events, with a responsive interactive interface and live data sync.
+### EventFlow
 
-`React` `JavaScript` `Firebase`
+A web platform for creating, discovering, and managing events, built with a responsive interface and real-time data synchronization.
 
-<a href="#"><img src="https://img.shields.io/badge/Repo-View%20Code-333333?style=flat-square&logo=github" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live-Demo-34D399?style=flat-square&logo=vercel" /></a>
+**Stack:** React · JavaScript · Firebase
+
+<a href="#"><img src="https://img.shields.io/badge/Repository-View%20Code-333333?style=flat-square&logo=github" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Demo-Live-34D399?style=flat-square&logo=vercel" /></a>
 
 </td>
 <td width="50%" valign="top">
-<h3>✨ Next up</h3>
 
-An AI/ML-powered project is in the works — bridging the backend engineering above with the ML skills below.
+### In Progress
 
-<em>Watch this space.</em>
+An applied machine learning project connecting the backend engineering above with the ML fundamentals currently being developed.
+
+*Details to follow.*
 
 </td>
 </tr>
@@ -108,7 +125,7 @@ An AI/ML-powered project is in the works — bridging the backend engineering ab
 
 <br>
 
-## 📊 GitHub Analytics
+## GitHub Activity
 
 <div align="center">
 
@@ -127,7 +144,7 @@ An AI/ML-powered project is in the works — bridging the backend engineering ab
 
 <br>
 
-## 🧩 Problem Solving
+## Problem Solving
 
 <div align="center">
 
@@ -137,36 +154,34 @@ An AI/ML-powered project is in the works — bridging the backend engineering ab
 
 <br>
 
-## 🌱 Currently Leveling Up
-
-<div align="center">
+## Currently Learning
 
 | Area | Focus |
 |---|---|
-| 🤖 Machine Learning | Core algorithms, model fundamentals |
-| 🧠 Data Structures & Algorithms | Consistent LeetCode practice |
-| 🏗️ System Design | Scalable architecture patterns |
-| 🔮 AI Applications | Applying ML to real, shippable products |
+| Machine Learning | Core algorithms and model fundamentals |
+| Data Structures & Algorithms | Consistent practice via LeetCode |
+| System Design | Scalable architecture patterns |
+| AI Applications | Applying ML to production-ready products |
+
+<br>
+
+## Contact
+
+<div align="center">
+
+Open to backend, full-stack, and early-career ML engineering roles.
+
+<a href="https://www.linkedin.com/in/sushmita-mishra-4b383936b/">
+<img src="https://img.shields.io/badge/LinkedIn-Message-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22" />
+</a>
+<a href="https://github.com/06sushmita">
+<img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" />
+</a>
 
 </div>
 
 <br>
 
-## 📫 Let's Build Something
-
 <div align="center">
-
-Open to backend, full-stack, and early ML engineering opportunities.
-
-<a href="https://www.linkedin.com/in/sushmita-mishra-4b383936b/">
-<img src="https://img.shields.io/badge/LinkedIn-Message%20Me-C084FC?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/06sushmita">
-<img src="https://img.shields.io/badge/GitHub-Follow-34D399?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<sub>─────────  designed by Sushmita  ─────────</sub>
-
+<sub>Sushmita Mishra — last updated 2026</sub>
 </div>
