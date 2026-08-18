@@ -116,15 +116,7 @@ Right now, I’m actively bridging my engineering foundation with **AI/ML**, lea
         <img src="https://img.shields.io/badge/Live-Demo-34D399?style=flat-square&logo=vercel" />
       </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>✨ Next Up</h3>
-      <p>An AI/ML-powered project is in the works — bridging the backend engineering above with intelligent, data-driven capabilities.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/ML-In%20Progress-C084FC?style=flat-square&logo=tensorflow&logoColor=white" />
-      </p>
-      <p><em>Watch this space. 🚀</em></p>
-    </td>
+   
   </tr>
 </table>
 
