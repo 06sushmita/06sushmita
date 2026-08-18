@@ -1,172 +1,236 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=SUSHMITA%20MISHRA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Building%20toward%20AI%2FML&descAlignY=58&descSize=18" width="100%"/>
+<br>
+
+# SUSHMITA MISHRA
+
+### `computer engineering` · `full-stack development` · `machine learning`
 
 <br>
 
+**I build applications, explore systems, and turn ideas into working software.**
+
+<br>
+
+`JAVA`   `SPRING BOOT`   `REACT`   `NODE.JS`   `PYTHON`
+
+<br><br>
+
 <a href="https://github.com/06sushmita">
-<img src="https://img.shields.io/badge/GitHub-06sushmita-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" />
+<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/sushmita-mishra-4b383936b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22" />
+<img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
+
 <a href="https://leetcode.com/u/06Sushmita_Mishra/">
-<img src="https://img.shields.io/badge/LeetCode-Solve-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161B22" />
+<img src="https://img.shields.io/badge/LEETCODE-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=650&lines=Building+backend+systems+with+clean+architecture;Java+%2F+Spring+Boot+%2F+React+%2F+Node.js;Currently+leveling+up+in+Machine+Learning+%26+AI" />
+<img src="https://komarev.com/ghpvc/?username=06sushmita&label=PROFILE%20VIEWS&color=C084FC&style=flat-square&labelColor=161B22" />
+
+<br><br>
 
 </div>
 
-<br>
+---
 
-## 🧭 About Me
+## `01` — About Me
 
-```yaml
-name: Sushmita Mishra
-role: Computer Engineering Student · Full-Stack Developer
-focus: Backend systems, clean architecture, practical problem-solving
-currently_exploring: Machine Learning & AI-powered applications
-philosophy: "Ship things that work. Learn the ones that don't — yet."
-```
+I'm a **Computer Engineering student** interested in building practical software solutions across the full stack.
 
-<br>
+My development work spans **Java, Spring Boot, React, Node.js, databases, and REST APIs**, while I'm also exploring **Machine Learning and AI-powered applications**.
 
-## ⚙️ Tech Stack
+I enjoy understanding how systems work end-to-end — from **database design and backend logic to APIs and user interfaces**.
+
+### What I enjoy
+
+* 💻 Building full-stack applications
+* ☕ Developing backend systems with Java & Spring Boot
+* ⚛️ Creating interactive interfaces with React
+* 🗄️ Designing and working with databases
+* 🧠 Practicing Data Structures & Algorithms
+* 🤖 Exploring Machine Learning and AI
+
+---
+
+## `02` — Technical Stack
 
 <div align="center">
 
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" />
-
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
-
-**Backend & APIs**
-<br>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" />
-
-**Database & Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,spring,nodejs,express,mysql,mongodb,html,css,tailwind,git,github,docker&perline=8&theme=dark" />
 
 </div>
 
 <br>
 
-## 🚀 Featured Projects
+| Area          | Technologies                                   |
+| ------------- | ---------------------------------------------- |
+| **Languages** | Java · Python · JavaScript · TypeScript        |
+| **Frontend**  | React · HTML · CSS · Tailwind CSS              |
+| **Backend**   | Spring Boot · Node.js · Express.js · REST APIs |
+| **Databases** | MySQL · MongoDB                                |
+| **Tools**     | Git · GitHub · Docker · Firebase               |
+
+---
+
+## `03` — Things I've Built
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3>🏦 VBS — Virtual Banking System</h3>
 
-A backend-first banking simulation handling account management, secure transactions, and core banking logic — built to mirror real-world financial system constraints like data integrity and transaction consistency.
+<td width="50%" valign="top">
+
+### 🏦 VBS
+
+**Virtual Banking System**
+
+A banking application focused on account management, transactions, and core banking operations.
+
+**Stack**
 
 `Java` `Spring Boot` `MySQL` `REST APIs`
 
-<a href="#"><img src="https://img.shields.io/badge/Repo-View%20Code-333333?style=flat-square&logo=github" /></a>
-
 </td>
-<td width="50%" valign="top">
-<h3>🍽️ RMS — Restaurant Management System</h3>
 
-A database-driven system for managing restaurant operations end-to-end — orders, inventory, and staff workflows — designed around normalized schemas and efficient query performance.
+<td width="50%" valign="top">
+
+### 🍽️ Restaurant Management
+
+A database-driven application designed to manage restaurant operations and related data through a structured backend system.
+
+**Stack**
 
 `Java` `Spring Boot` `MySQL`
 
-<a href="#"><img src="https://img.shields.io/badge/Repo-View%20Code-333333?style=flat-square&logo=github" /></a>
-
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🎟️ EventFlow — Event Management Platform</h3>
 
-A real-time web platform for creating, discovering, and joining events, with a responsive interactive interface and live data sync.
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎟️ EventFlow
+
+A web-based event management application for creating, managing, and participating in events.
+
+**Stack**
 
 `React` `JavaScript` `Firebase`
 
-<a href="#"><img src="https://img.shields.io/badge/Repo-View%20Code-333333?style=flat-square&logo=github" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live-Demo-34D399?style=flat-square&logo=vercel" /></a>
-
 </td>
+
 <td width="50%" valign="top">
-<h3>✨ Next up</h3>
 
-An AI/ML-powered project is in the works — bridging the backend engineering above with the ML skills below.
+### 🔧 What I Like Building
 
-<em>Watch this space.</em>
+Applications that combine a clean frontend with reliable backend logic, structured data, and useful functionality.
+
+**Interests**
+
+`Full-Stack` `Backend` `APIs` `AI/ML`
 
 </td>
+
 </tr>
 </table>
 
-<br>
+---
 
-## 📊 GitHub Analytics
+## `04` — GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=06sushmita&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=34D399&text_color=E5E7EB&ring_color=C084FC" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=06sushmita&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=06sushmita&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=C084FC&icon_color=34D399&text_color=E5E7EB&custom_title=GitHub%20Statistics" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=06sushmita&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB&custom_title=Most%20Used%20Languages" width="40%" />
+
+</div>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=06sushmita&hide_border=true&background=0D1117&ring=C084FC&fire=34D399&currStreakLabel=C084FC" width="60%" />
-
-<br>
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=06sushmita&bg_color=0D1117&color=E5E7EB&line=C084FC&point=34D399&area=true&hide_border=true" width="94%" />
 
 </div>
 
-<br>
+---
 
-## 🧩 Problem Solving
+## `05` — Problem Solving
 
 <div align="center">
+
+<a href="https://leetcode.com/u/06Sushmita_Mishra/">
 
 <img src="https://leetcard.jacoblin.cool/06Sushmita_Mishra?theme=dark&font=Baloo&ext=heatmap&border=0" width="500" />
 
-</div>
-
-<br>
-
-## 🌱 Currently Leveling Up
-
-<div align="center">
-
-| Area | Focus |
-|---|---|
-| 🤖 Machine Learning | Core algorithms, model fundamentals |
-| 🧠 Data Structures & Algorithms | Consistent LeetCode practice |
-| 🏗️ System Design | Scalable architecture patterns |
-| 🔮 AI Applications | Applying ML to real, shippable products |
-
-</div>
-
-<br>
-
-## 📫 Let's Build Something
-
-<div align="center">
-
-Open to backend, full-stack, and early ML engineering opportunities.
-
-<a href="https://www.linkedin.com/in/sushmita-mishra-4b383936b/">
-<img src="https://img.shields.io/badge/LinkedIn-Message%20Me-C084FC?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/06sushmita">
-<img src="https://img.shields.io/badge/GitHub-Follow-34D399?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
+<a href="https://leetcode.com/u/06Sushmita_Mishra/">
+<img src="https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## `06` — Currently Exploring
+
+```text
+Machine Learning       → Model building · evaluation · feature engineering
+
+Data Structures        → Algorithms · problem solving · LeetCode
+
+System Design          → Architecture · scalability · backend systems
+
+AI Applications        → Practical ML · intelligent software
+
+Full-Stack Development → Better frontend + backend systems
+```
+
+---
+
+## `07` — What I'm Working Toward
+
+I want to build software that is not only functional, but also **well-structured, maintainable, and useful**.
+
+My current focus is strengthening my fundamentals in **software engineering, backend development, problem solving, and machine learning** while continuing to build real projects.
+
+---
+
+## `08` — Connect
+
+<div align="center">
+
+**Have an interesting idea? Let's build it.**
+
+<br>
+
+<a href="https://github.com/06sushmita">
+<img src="https://img.shields.io/badge/GitHub-06sushmita-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/sushmita-mishra-4b383936b/">
+<img src="https://img.shields.io/badge/LinkedIn-Sushmita%20Mishra-161B22?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/06Sushmita_Mishra/">
+<img src="https://img.shields.io/badge/LeetCode-06Sushmita__Mishra-161B22?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<br><br>
+
+`build → learn → solve → repeat`
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=06sushmita&label=THANKS%20FOR%20VISITING&color=34D399&style=flat-square&labelColor=161B22" />
 
 </div>
