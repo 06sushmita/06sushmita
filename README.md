@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=SUSHMITA%20MISHRA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Building%20toward%20AI%2FML&descAlignY=58&descSize=18" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
 <br>
 
@@ -167,6 +167,6 @@ Open to backend, full-stack, and early ML engineering opportunities.
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
+<sub>─────────  designed by Sushmita  ─────────</sub>
 
 </div>
