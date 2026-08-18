@@ -1,187 +1,191 @@
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwMCIgaGVpZ2h0PSIyNjAiIHZpZXdCb3g9IjAgMCAxNDAwIDI2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cmVjdCB3aWR0aD0iMTQwMCIgaGVpZ2h0PSIyNjAiIGZpbGw9IiMwRDExMTciLz4KCiAgPCEtLSB0aGluIGFjY2VudCBmcmFtZSAtLT4KICA8bGluZSB4MT0iMCIgeTE9IjAiIHgyPSIxNDAwIiB5Mj0iMCIgc3Ryb2tlPSIjMjEyNjJEIiBzdHJva2Utd2lkdGg9IjEiLz4KICA8bGluZSB4MT0iMCIgeTE9IjI1OSIgeDI9IjE0MDAiIHkyPSIyNTkiIHN0cm9rZT0iIzIxMjYyRCIgc3Ryb2tlLXdpZHRoPSIxIi8+CgogIDwhLS0gY29ybmVyIGJyYWNrZXQgYWNjZW50cyAtLT4KICA8cGF0aCBkPSJNIDYwIDQwIEwgNjAgMjQgTCA3NiAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQzA4NEZDIiBzdHJva2Utd2lkdGg9IjIiLz4KICA8cGF0aCBkPSJNIDEzNDAgNDAgTCAxMzQwIDI0IEwgMTMyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzREMzk5IiBzdHJva2Utd2lkdGg9IjIiLz4KICA8cGF0aCBkPSJNIDYwIDIyMCBMIDYwIDIzNiBMIDc2IDIzNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzREMzk5IiBzdHJva2Utd2lkdGg9IjIiLz4KICA8cGF0aCBkPSJNIDEzNDAgMjIwIEwgMTM0MCAyMzYgTCAxMzI0IDIzNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQzA4NEZDIiBzdHJva2Utd2lkdGg9IjIiLz4KCiAgPCEtLSB2ZXJ0aWNhbCBpbmRleCBiYXIgLS0+CiAgPHJlY3QgeD0iNjAiIHk9Ijk2IiB3aWR0aD0iNCIgaGVpZ2h0PSI2OCIgZmlsbD0iI0MwODRGQyIvPgoKICA8IS0tIGV5ZWJyb3cgLS0+CiAgPHRleHQgeD0iODAiIHk9IjgwIiBmb250LWZhbWlseT0iJ0pldEJyYWlucyBNb25vJywnQ291cmllciBOZXcnLG1vbm9zcGFjZSIgZm9udC1zaXplPSIxNCIgZmlsbD0iIzhCOTQ5RSIgbGV0dGVyLXNwYWNpbmc9IjMiPkNPTVBVVEVSIEVOR0lORUVSSU5HIMK3IEZVTEwtU1RBQ0sgwrcgQUkvTUw8L3RleHQ+CgogIDwhLS0gbmFtZSAtLT4KICA8dGV4dCB4PSI3NiIgeT0iMTUwIiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI2NCIgZm9udC13ZWlnaHQ9IjgwMCIgZmlsbD0iI0YwRjZGQyIgbGV0dGVyLXNwYWNpbmc9IjEiPlNVU0hNSVRBIE1JU0hSQTwvdGV4dD4KCiAgPCEtLSBzdWJ0aXRsZSAtLT4KICA8dGV4dCB4PSI4MCIgeT0iMTg4IiBmb250LWZhbWlseT0iJ0pldEJyYWlucyBNb25vJywnQ291cmllciBOZXcnLG1vbm9zcGFjZSIgZm9udC1zaXplPSIxNiIgZmlsbD0iIzM0RDM5OSI+Jmd0OyBidWlsZGluZyBzb2Z0d2FyZS4gbGVhcm5pbmcgY29udGludW91c2x5LiBzb2x2aW5nIHByb2JsZW1zLjwvdGV4dD4KCiAgPCEtLSBzdGF0dXMgZG90ICsgbGFiZWwsIHRvcCByaWdodCAtLT4KICA8Y2lyY2xlIGN4PSIxMjkwIiBjeT0iNTIiIHI9IjUiIGZpbGw9IiMzNEQzOTkiLz4KICA8dGV4dCB4PSIxMzA1IiB5PSI1NyIgZm9udC1mYW1pbHk9IidKZXRCcmFpbnMgTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiM4Qjk0OUUiPm9wZW4gdG8gd29yazwvdGV4dD4KPC9zdmc+Cg==" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=SUSHMITA%20MISHRA&fontSize=58&fontColor=F0F6FC&fontAlignY=45&desc=COMPUTER%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20AI%2FML&descSize=16&descAlignY=65&descColor=C084FC" width="100%"/>
 
 <br>
 
 <a href="https://github.com/06sushmita">
-<img src="https://img.shields.io/badge/GitHub-06sushmita-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" />
+<img src="https://img.shields.io/badge/GitHub-06sushmita-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/sushmita-mishra-4b383936b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
+
 <a href="https://leetcode.com/u/06Sushmita_Mishra/">
-<img src="https://img.shields.io/badge/LeetCode-Solve-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161B22" />
+<img src="https://img.shields.io/badge/LeetCode-Profile-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=06sushmita&label=PROFILE%20VIEWS&color=C084FC&style=flat-square&labelColor=161B22" />
 
 </div>
 
-<br>
+---
 
-## About
+## `01` — About Me
 
-Computer Engineering student and full-stack developer focused on building reliable, well-structured backend systems. Comfortable across the stack, with particular interest in clean architecture, data modeling, and API design. Currently expanding into machine learning and AI-driven applications, with the goal of applying that background to production-grade systems.
+I'm a **Computer Engineering student** interested in building practical software solutions across the full stack.
 
-<br>
+My development work spans **Java, Spring Boot, React, Node.js, databases, and REST APIs**, while I'm also exploring **Machine Learning and AI-powered applications**.
 
-## Technical Skills
+I enjoy understanding how systems work behind the interface — from database design and APIs to application logic and user experience.
 
-<table width="100%">
-<tr>
-<td valign="top" width="25%">
+---
 
-**Languages**
-
-Java · Python
-JavaScript · TypeScript
-
-</td>
-<td valign="top" width="25%">
-
-**Frontend**
-
-React · HTML5
-CSS3 · Tailwind CSS
-
-</td>
-<td valign="top" width="25%">
-
-**Backend**
-
-Spring Boot · Node.js
-Express.js · REST APIs
-
-</td>
-<td valign="top" width="25%">
-
-**Database & Tooling**
-
-MySQL · MongoDB
-Git · Docker
-
-</td>
-</tr>
-</table>
+## `02` — Technical Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,spring,nodejs,express,mysql,mongodb,git,docker&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,spring,nodejs,express,mysql,mongodb,html,css,tailwind,git,github,docker&perline=8&theme=dark" />
 
 </div>
 
 <br>
 
-## Projects
+| Area          | Technologies                                   |
+| ------------- | ---------------------------------------------- |
+| **Languages** | Java · Python · JavaScript · TypeScript        |
+| **Frontend**  | React · HTML · CSS · Tailwind CSS              |
+| **Backend**   | Spring Boot · Node.js · Express.js · REST APIs |
+| **Databases** | MySQL · MongoDB                                |
+| **Tools**     | Git · GitHub · Docker · Firebase               |
+
+---
+
+## `03` — Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### Virtual Banking System
+### 🏦 Virtual Banking System
 
-A backend-first banking simulation handling account management, transactions, and core banking logic, built to reflect real-world constraints such as data integrity and transaction consistency.
+A banking application focused on core banking operations, account management, and transaction processing.
 
-**Stack:** Java · Spring Boot · MySQL · REST APIs
+**Technology**
 
-<a href="#"><img src="https://img.shields.io/badge/Repository-View%20Code-333333?style=flat-square&logo=github" /></a>
+`Java` `Spring Boot` `MySQL` `REST API`
 
 </td>
+
 <td width="50%" valign="top">
 
-### Restaurant Management System
+### 🍽️ Restaurant Management System
 
-A database-driven application for managing restaurant operations end-to-end, including orders, inventory, and staff workflows, designed around normalized schemas and efficient querying.
+A database-driven application for managing restaurant operations, orders, menu-related data, and backend workflows.
 
-**Stack:** Java · Spring Boot · MySQL
+**Technology**
 
-<a href="#"><img src="https://img.shields.io/badge/Repository-View%20Code-333333?style=flat-square&logo=github" /></a>
+`Java` `Spring Boot` `MySQL`
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### EventFlow
+### 🎟️ EventFlow
 
-A web platform for creating, discovering, and managing events, built with a responsive interface and real-time data synchronization.
+A web-based event management application for creating, managing, and participating in events.
 
-**Stack:** React · JavaScript · Firebase
+**Technology**
 
-<a href="#"><img src="https://img.shields.io/badge/Repository-View%20Code-333333?style=flat-square&logo=github" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Demo-Live-34D399?style=flat-square&logo=vercel" /></a>
+`React` `JavaScript` `Firebase`
 
 </td>
+
 <td width="50%" valign="top">
 
-### In Progress
+### 🤖 FlyRank ML Project
 
-An applied machine learning project connecting the backend engineering above with the ML fundamentals currently being developed.
+An applied machine-learning project focused on analyzing search performance data and generating data-driven content recommendations.
 
-*Details to follow.*
+**Technology**
+
+`Python` `Pandas` `Scikit-learn` `Machine Learning`
 
 </td>
+
 </tr>
 </table>
 
-<br>
+---
 
-## GitHub Activity
+## `04` — GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=06sushmita&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=34D399&text_color=E5E7EB&ring_color=C084FC" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=06sushmita&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=06sushmita&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=C084FC&icon_color=34D399&text_color=E5E7EB&custom_title=GitHub%20Statistics" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=06sushmita&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB&custom_title=Most%20Used%20Languages" width="40%" />
+
+</div>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=06sushmita&hide_border=true&background=0D1117&ring=C084FC&fire=34D399&currStreakLabel=C084FC" width="60%" />
-
-<br>
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=06sushmita&bg_color=0D1117&color=E5E7EB&line=C084FC&point=34D399&area=true&hide_border=true" width="94%" />
 
 </div>
 
-<br>
+---
 
-## Problem Solving
+## `05` — Problem Solving
 
 <div align="center">
+
+<a href="https://leetcode.com/u/06Sushmita_Mishra/">
 
 <img src="https://leetcard.jacoblin.cool/06Sushmita_Mishra?theme=dark&font=Baloo&ext=heatmap&border=0" width="500" />
 
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/06Sushmita_Mishra/">
+<img src="https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
 </div>
 
-<br>
+---
 
-## Currently Learning
+## `06` — Currently Exploring
 
-| Area | Focus |
-|---|---|
-| Machine Learning | Core algorithms and model fundamentals |
-| Data Structures & Algorithms | Consistent practice via LeetCode |
-| System Design | Scalable architecture patterns |
-| AI Applications | Applying ML to production-ready products |
+```text
+Machine Learning       → Model building & evaluation
+Data Structures        → Algorithms & problem solving
+System Design          → Scalable application architecture
+AI Applications        → Applying ML to real-world products
+Full-Stack Development → Better frontend + backend systems
+```
 
-<br>
+---
 
-## Contact
+## `07` — Connect
 
 <div align="center">
-
-Open to backend, full-stack, and early-career ML engineering roles.
 
 <a href="https://www.linkedin.com/in/sushmita-mishra-4b383936b/">
-<img src="https://img.shields.io/badge/LinkedIn-Message-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161B22" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://github.com/06sushmita">
-<img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
+<a href="https://leetcode.com/u/06Sushmita_Mishra/">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 
-<br>
+<br><br>
 
-<div align="center">
-<sub>Sushmita Mishra — last updated 2026</sub>
+**Build. Learn. Solve. Repeat. 🚀**
+
 </div>
