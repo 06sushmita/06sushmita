@@ -15,9 +15,7 @@
 
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=750&lines=Building+scalable+backend+systems;Crafting+clean+architecture+with+Java+%26+Spring+Boot;Building+responsive+MERN+applications;Exploring+Machine+Learning+%26+AI" alt="Typing SVG" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=SUSHMITA%20MISHRA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Building%20towards%20Real-World%20Solutions&descAlignY=60&descSize=18" width="100%"/>
 
 <br>
 
