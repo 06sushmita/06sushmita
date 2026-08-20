@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,24,30&text=SUSHMITA%20MISHRA&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=MERN%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20AI%2FML%20Engineer%20in%20the%20Making&descAlignY=58&descSize=20" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=SUSHMITA%20MISHRA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Building%20towards%20Real-World%20Solutions&descAlignY=60&descSize=18" width="100%"/>
 
 <div align="center">
 
@@ -14,8 +12,6 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=06sushmita&label=Profile%20Views&color=C084FC&style=for-the-badge)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=SUSHMITA%20MISHRA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Building%20towards%20Real-World%20Solutions&descAlignY=60&descSize=18" width="100%"/>
 
 <br>
 
