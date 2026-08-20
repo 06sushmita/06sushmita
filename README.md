@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,24,30&text=SUSHMITA%20MISHRA&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Java%20SpringBoot%20%7C%20AI%2FML%20Aspirant&descAlignY=58&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,24,30&text=SUSHMITA%20MISHRA&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=MERN%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20AI%2FML%20Engineer%20in%20the%20Making&descAlignY=58&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
@@ -7,12 +7,16 @@
   [![GitHub](https://img.shields.io/badge/GitHub-06sushmita-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/06sushmita)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushmita-mishra-4b383936b/)
   [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/06Sushmita_Mishra/)
-  [![Gmail](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Gmail](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+  <br><br>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=06sushmita&label=Profile%20Views&color=C084FC&style=for-the-badge)
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=750&lines=Building+scalable+backend+systems;Crafting+clean+architecture+with+Java+%2F+Spring+Boot;Exploring+the+frontier+of+Machine+Learning+%26+AI;Shipping+real+products+that+real+people+use" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=750&lines=Building+scalable+backend+systems;Crafting+clean+architecture+with+Java+%26+Spring+Boot;Building+responsive+MERN+applications;Exploring+Machine+Learning+%26+AI" alt="Typing SVG" />
 </div>
 
 <br>
@@ -23,21 +27,21 @@
 
 ```yaml
 name: Sushmita Mishra
-role: Computer Engineering Student · Full-Stack Developer
+role: Computer Engineering Student · MERN Stack Developer
 location: India
 focus:
   - Backend Systems & Clean Architecture
   - RESTful API Design & Database Modeling
-  - Practical Problem Solving at Scale
+  - Scalable Software Engineering
 currently_exploring:
   - Machine Learning & AI-powered Applications
   - System Design for Scalable Architectures
 philosophy: "Ship things that work. Learn the ones that don't — yet."
 ```
 
-I’m a full-stack engineer in the making, passionate about building systems that are **robust, maintainable, and scalable**. My sweet spot is backend engineering — designing database schemas, writing clean business logic, and ensuring APIs behave predictably under real-world constraints.
+I'm a full-stack engineer in the making, passionate about building systems that are **robust, maintainable, and scalable**. My sweet spot is backend engineering—designing database schemas, writing clean business logic, and ensuring APIs behave predictably under real-world constraints.
 
-Right now, I’m actively bridging my engineering foundation with **AI/ML**, learning how intelligent systems can power the next generation of products.
+Right now, I'm actively bridging my engineering foundation with **AI/ML**, learning how intelligent systems can power the next generation of products.
 
 <br>
 
@@ -76,7 +80,7 @@ Right now, I’m actively bridging my engineering foundation with **AI/ML**, lea
   <tr>
     <td width="50%" valign="top">
       <h3>🏦 VBS — Virtual Banking System</h3>
-      <p>A backend-first banking simulation handling account management, secure transactions, and core banking logic — built to mirror real-world financial system constraints like data integrity and transaction consistency.</p>
+      <p>A backend-first banking simulation handling account management, secure transactions, and core banking logic—built to mirror real-world financial system constraints like data integrity and transaction consistency.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
@@ -89,7 +93,7 @@ Right now, I’m actively bridging my engineering foundation with **AI/ML**, lea
     </td>
     <td width="50%" valign="top">
       <h3>🍽️ RMS — Restaurant Management System</h3>
-      <p>A database-driven system for managing restaurant operations end-to-end — orders, inventory, and staff workflows — designed around normalized schemas and efficient query performance.</p>
+      <p>A database-driven system for managing restaurant operations end-to-end—orders, inventory, and staff workflows—designed around normalized schemas and efficient query performance.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
@@ -116,7 +120,6 @@ Right now, I’m actively bridging my engineering foundation with **AI/ML**, lea
         <img src="https://img.shields.io/badge/Live-Demo-34D399?style=flat-square&logo=vercel" />
       </a>
     </td>
-   
   </tr>
 </table>
 
@@ -162,7 +165,6 @@ Right now, I’m actively bridging my engineering foundation with **AI/ML**, lea
 | 🤖 **Machine Learning** | Core algorithms, model fundamentals, and ML pipelines |
 | 🧠 **Data Structures & Algorithms** | Consistent LeetCode practice and pattern recognition |
 | 🏗️ **System Design** | Scalable architecture patterns and distributed systems basics |
-
 
 <br>
 
