@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=SUSHMITA%20MISHRA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Building%20towards%20Real-World%20Solutions&descAlignY=60&descSize=18" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,24,30&text=SUSHMITA%20MISHRA&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=MERN%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20AI%2FML%20Engineer%20in%20the%20Making&descAlignY=58&descSize=20"/>
+</div>
 
 <div align="center">
 
@@ -11,6 +13,10 @@
 
   ![Profile Views](https://komarev.com/ghpvc/?username=06sushmita&label=Profile%20Views&color=C084FC&style=for-the-badge)
 
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=750&lines=Building+scalable+backend+systems;Crafting+clean+architecture+with+Java+%26+Spring+Boot;Building+responsive+MERN+applications;Exploring+Machine+Learning+%26+AI" alt="Typing SVG" />
 </div>
 
 <br>
